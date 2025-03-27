@@ -1,5 +1,7 @@
 # PRODIGY_DS_05
 ## EXPLORATORY DATA ANALYSIS ON US ACCIDENT DATA
+<br>
+<img src = "https://github.com/MrDeeep/prodigy_infotech_task5/blob/main/Screenshot%202025-03-27%20095510.png">
 ### US Accident Data Analysis:
 This project involves an exploratory data analysis (EDA) on US accident data. The dataset used for this analysis is sourced from https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents.
 
